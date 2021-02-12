@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="espace.c" open="1" top="1" tabpos="1">
+		<Cursor position="2948" topLine="70" />
+	</File>
+	<File name="espace.h" open="1" top="0" tabpos="2">
+		<Cursor position="691" topLine="6" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="3">
+		<Cursor position="1288" topLine="28" />
+	</File>
+</CodeBlocks_layout_file>

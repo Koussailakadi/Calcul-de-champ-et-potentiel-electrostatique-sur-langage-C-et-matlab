@@ -1,0 +1,20 @@
+x=-2:0.8:2;
+y=-2:0.8:2;
+[xx,yy]=meshgrid(x,y)
+type text.txt
+sizeA=[6 6];
+F= fopen('text.txt','r');
+formatSpec='%f';
+A=fscanf(F,formatSpec,sizeA)'
+figure;
+surf(xx,yy,A);% cham
+[DX,DY] = gradient(A,.2,.2)
+figure
+contour(xx,yy,A)
+hold on
+quiver(xx,yy,DX,DY)
+hold off
+
+
+
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1574264810 source:c:\users\3802359\desktop\projet\espace.c
+	"espace.h"
+
+1574268568 source:c:\users\3802359\desktop\projet\main.c
+	"espace.h"
+
+1574264783 c:\users\3802359\desktop\projet\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574264810 source:c:\users\3802359.capsule.002\desktop\projet\espace.c
+	"espace.h"
+
+1574722633 c:\users\3802359.capsule.002\desktop\projet\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574727719 source:c:\users\3802359.capsule.002\desktop\projet\main.c
+	"espace.h"
+

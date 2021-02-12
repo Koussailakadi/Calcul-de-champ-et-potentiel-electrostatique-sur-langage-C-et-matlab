@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1574264810 source:c:\users\3802359\desktop\projet\espace.c
+	"espace.h"
+
+1574268568 source:c:\users\3802359\desktop\projet\main.c
+	"espace.h"
+
+1574264783 c:\users\3802359\desktop\projet\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574264810 source:c:\users\3802359.capsule.002\desktop\projet\espace.c
+	"espace.h"
+
+1574722633 c:\users\3802359.capsule.002\desktop\projet\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574727719 source:c:\users\3802359.capsule.002\desktop\projet\main.c
+	"espace.h"
+
+1575991905 source:c:\users\discomputer\desktop\projet\main.c
+	"espace.h"
+
+1575932385 c:\users\discomputer\desktop\projet\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1575991905 source:c:\users\discomputer\desktop\projet\espace.c
+	"espace.h"
+
+1576638347 source:c:\users\discomputer\desktop\projet c\main.c
+	"espace.h"
+
+1576632360 c:\users\discomputer\desktop\projet c\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1576643080 source:c:\users\discomputer\desktop\projet c\espace.c
+	"espace.h"
+
+1576645421 source:c:\users\discomputer\desktop\projet c koussaila\main.c
+	"espace.h"
+
+1576632360 c:\users\discomputer\desktop\projet c koussaila\espace.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1576643080 source:c:\users\discomputer\desktop\projet c koussaila\espace.c
+	"espace.h"
+
