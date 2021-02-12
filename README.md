@@ -2,9 +2,9 @@
 
 implémentation d'algorithmes sur le langage C pour simuler un champ électrostatique créé par des distributions de charge.
 
-*programmation : langage C
+* programmation : langage C
 
-*simulation et visualisation : Matlab
+* simulation et visualisation : Matlab
 
 
 les simulations à venir prochènement ! 
