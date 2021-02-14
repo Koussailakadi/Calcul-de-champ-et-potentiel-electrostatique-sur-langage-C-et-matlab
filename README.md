@@ -7,4 +7,3 @@ implémentation d'algorithmes sur le langage C pour simuler un champ électrosta
 * simulation et visualisation : Matlab
 
 
-les simulations à venir prochènement ! 
